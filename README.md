@@ -1,1 +1,1 @@
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+hi! currently learning Rust, and working on my portfolio website.
