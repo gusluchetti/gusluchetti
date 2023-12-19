@@ -1,2 +1,2 @@
-Hi! I'm most likely working on a script to automate something that doesn't really need to be automated.  
-Web dev by trade, but I'm particularly interested in system automation and configuration.
+web dev for 2+ years - if i can avoid my mouse, i will!
+working to make my developer experience as seamless (and quick) as possible.
